@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-happy
-world
-hahah
-hohoho
-rrrrrrrr
-ttttttt
-=======
-sdkfaljdlfak
-adsf
-asdfsfdsad
-cp new status
->>>>>>> parent of 1fedea0 (next)
+hi
+i am git study
